@@ -1,0 +1,39 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+MSZoning,RL,RM,C (all),FV,RH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Street,Pave,Grvl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LotShape,Reg,IR1,IR2,IR3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LandContour,Lvl,Bnk,Low,HLS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Utilities,AllPub,NoSeWa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LotConfig,Inside,FR2,Corner,CulDSac,FR3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LandSlope,Gtl,Mod,Sev,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neighborhood,CollgCr,Veenker,Crawfor,NoRidge,Mitchel,Somerst,NWAmes,OldTown,BrkSide,Sawyer,NridgHt,NAmes,SawyerW,IDOTRR,MeadowV,Edwards,Timber,Gilbert,StoneBr,ClearCr,NPkVill,Blmngtn,BrDale,SWISU,Blueste
+Condition1,Norm,Feedr,PosN,Artery,RRAe,RRNn,RRAn,PosA,RRNe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Condition2,Norm,Artery,RRNn,Feedr,PosN,PosA,RRAn,RRAe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BldgType,1Fam,2fmCon,Duplex,TwnhsE,Twnhs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HouseStyle,2Story,1Story,1.5Fin,1.5Unf,SFoyer,SLvl,2.5Unf,2.5Fin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RoofStyle,Gable,Hip,Gambrel,Mansard,Flat,Shed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RoofMatl,CompShg,WdShngl,Metal,WdShake,Membran,Tar&Grv,Roll,ClyTile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exterior1st,VinylSd,MetalSd,Wd Sdng,HdBoard,BrkFace,WdShing,CemntBd,Plywood,AsbShng,Stucco,BrkComm,AsphShn,Stone,ImStucc,CBlock,0,0,0,0,0,0,0,0,0,0
+Exterior2nd,VinylSd,MetalSd,Wd Shng,HdBoard,Plywood,Wd Sdng,CmentBd,BrkFace,Stucco,AsbShng,Brk Cmn,ImStucc,AsphShn,Stone,Other,CBlock,0,0,0,0,0,0,0,0,0
+MasVnrType,BrkFace,None,Stone,BrkCmn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ExterQual,Gd,TA,Ex,Fa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ExterCond,TA,Gd,Fa,Po,Ex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Foundation,PConc,CBlock,BrkTil,Wood,Slab,Stone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BsmtQual,Gd,TA,Ex,none,Fa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BsmtCond,TA,Gd,none,Fa,Po,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BsmtExposure,No,Gd,Mn,Av,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BsmtFinType1,GLQ,ALQ,Unf,Rec,BLQ,none,LwQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BsmtFinType2,Unf,BLQ,none,ALQ,Rec,LwQ,GLQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heating,GasA,GasW,Grav,Wall,OthW,Floor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HeatingQC,Ex,Gd,TA,Fa,Po,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CentralAir,Y,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electrical,SBrkr,FuseF,FuseA,FuseP,Mix,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KitchenQual,Gd,TA,Ex,Fa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Functional,Typ,Min1,Maj1,Min2,Mod,Maj2,Sev,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GarageType,Attchd,Detchd,BuiltIn,CarPort,Basment,2Types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GarageFinish,RFn,Unf,Fin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GarageQual,TA,Fa,Gd,Ex,Po,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GarageCond,TA,Fa,Gd,Po,Ex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PavedDrive,Y,N,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SaleType,WD,New,COD,ConLD,ConLI,CWD,ConLw,Con,Oth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SaleCondition,Normal,Abnorml,Partial,AdjLand,Alloca,Family,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
