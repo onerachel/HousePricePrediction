@@ -1,4 +1,4 @@
-# Purpose
+## Purpose
 It's for a kaggle competition - House price prediction. 
 Our aim is to predict the house price accurately based on various factors such as location, square meters, number of bedrooms and more.
 
